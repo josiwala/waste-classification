@@ -8,3 +8,4 @@ setup(
     author='Jeffrey Osiwala',
     license='MIT',
 )
+print('asdfasdf')
